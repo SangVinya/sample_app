@@ -3,9 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
-gem 'curl', '~> 0.0.9'
+gem 'curl'
 gem 'minitest-reporters'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass'
 gem 'rails-controller-testing'
 gem 'jquery-rails'
 gem 'faker', '1.7.3'
