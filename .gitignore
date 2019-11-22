@@ -32,3 +32,10 @@
 
 # Ignore uploaded test images.
 /public/uploads
+
+# Ignore application configuration
+/config/application.yml
+/config/database.yml
+
+.idea/
+/db/schema.rb
