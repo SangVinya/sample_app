@@ -5,7 +5,7 @@ ruby '2.5.1'
 
 gem 'curl', '~> 0.0.9'
 gem 'minitest-reporters'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 gem 'rails-controller-testing'
 gem 'jquery-rails'
 gem 'faker', '1.7.3'
